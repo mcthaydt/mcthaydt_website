@@ -1,4 +1,22 @@
 <script lang="ts">
+	import Router from 'svelte-spa-router'
+
+	import Work from './routes/Work.svelte'
+	import About from './routes/About.svelte'
+	import Products from './routes/Products.svelte'
+	import Services from './routes/Services.svelte'
+	import Courses from './routes/Courses.svelte'
+	import NotFound from './routes/404.svelte'
+
+	let routes = {
+		"/": Work,
+		"/About": About,
+		"/Work": Work,
+		"/Products": Products,
+		"/Services": Services,
+		"/Courses": Courses,
+		"*": NotFound
+	}
 </script>
 
 <main>
@@ -6,12 +24,14 @@
 	<h2>Software Engineer + Product Designer</h2>
 
 	<nav>
-		<a href="/About/">About</a> |
-		<a href="/Work/">Work</a> |
-		<a href="/Products/">Products</a> |
-		<a href="/Services/">Services</a> |
-		<a href="/Courses/">Courses</a>
+		<a href="#/About/">About</a> |
+		<a href="#/Work/">Work</a> |
+		<a href="#/Products/">Products</a> |
+		<a href="#/Services/">Services</a> |
+		<a href="#/Courses/">Courses</a>
 	</nav>
+
+	<Router {routes} />
 
 	<footer>
 		<a href="TikTok">TikTok</a>
