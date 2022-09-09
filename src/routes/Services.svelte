@@ -2,9 +2,25 @@
 	import Typewriter from 'svelte-typewriter'
 </script>
 
-<Typewriter interval={15}>
-	<h1>717 INTERACTIVE IS ACCEPTING NEW CLIENTS IN OCTOBER</h1>
-	<h3>A NEW, LIGHTWEIGHT DESIGN STUDIO</h3>
-	<h2>NICHE 1: CHICAGO NIGHTLIFE WEBSITES</h2>
-	<h2>NICHE 2: DATA DRIVEN SYSTEMIC VIDEO GAMES </h2>
-</Typewriter>
+<div class="container">
+	<Typewriter interval={15}>
+		<h1>717 INTERACTIVE IS ACCEPTING NEW CLIENTS IN OCTOBER</h1>
+		<h3>lightweight design studio</h3>
+		<h2>NICHE 1: CHICAGO NIGHTLIFE WEBSITES</h2>
+		<h2>NICHE 2: DATA DRIVEN SYSTEMIC VIDEO GAMES </h2>
+	</Typewriter>
+</div>
+
+<style>
+	.container {
+		text-align: left;
+		float: left;
+		max-height: 300px;
+		overflow-y: auto;
+		overflow-x: hidden;
+	}
+	h3 {
+		float: right;
+		text-align: right;
+	}
+</style>

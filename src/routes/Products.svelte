@@ -16,5 +16,10 @@
 	.container {
 		display: flex;
 		flex-direction: column;
+		text-align: left;
+		float: left;
+		max-height: 500px;
+		overflow-y: hidden;
+		overflow-x: hidden;
 	}
 </style>

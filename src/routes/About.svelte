@@ -23,10 +23,14 @@
 	.container {
 		text-align: left;
 		float: left;
+		max-height: 300px;
+		overflow-y: scroll;
+		overflow-x: hidden;
+		margin-left: 3%;
 	}
 	ul {
 		list-style-type: circle;
-		margin-left: -5%; 
+		margin-left: 0.1vw; 
 	}
 	li {
 		list-style-type: circle;
