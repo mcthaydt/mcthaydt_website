@@ -25,7 +25,7 @@
 <main>
 	<header>
 		<Typewriter mode={'scramble'} scrambleDuration={350}>
-			<h1>DAWSON MCTHAY</h1>
+			<h1>Dawson McThay</h1>
 			<h2>Software Developer + Product Designer</h2>
 		</Typewriter>
 		<Typewriter mode={'scramble'} scrambleDuration={450}>
@@ -49,8 +49,8 @@
 			<a href="https://www.youtube.com/channel/UCkWuf4-zsNfgo_5ynyheOZw">YouTube</a>
 			<a href="https://github.com/mcthaydt">Github</a>
 			<a href="https://www.reddit.com/user/crispyowl717">Reddit</a>
-			<a href="https://crispyowl717.com">Soundcloud</a>
 			<a href="https://www.instagram.com/crispyowl717/">Instagram</a>
+			<a href="https://crispyowl717.com">My Music</a>
 		</Typewriter> 
 	</footer>
 </main>

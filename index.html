@@ -3,10 +3,30 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.75" />
     <title>Dawson McThay</title>
   </head>
+   <script type="text/javascript" src="src/lib/nodes.js"></script>
+  <script type="text/javascript">
+    var nodesjs = new NodesJs({
+        id: 'nodes',
+        width: window.innerWidth,
+        height: window.innerHeight,
+        particleSize: 2,
+        lineSize: 1,
+        particleColor: [255, 255, 255, 0.3],
+        lineColor: [0, 255, 0],
+        backgroundFrom: [0, 0, 0],
+        backgroundTo: [0, 7, 1],
+        backgroundDuration: 4000,
+        nobg: false,
+        number: window.hasOwnProperty('orientation') ? 30: 100,
+        speed: 15,
+        pointerCircleRadius: 150
+    });
+  </script>
   <body>
+	<canvas id="nodes" style="z-index: 0; position: fixed; filter: blur(5px);"></canvas>
     <div id="app"></div>
     <script type="module" src="/src/main.ts"></script>
   </body>
