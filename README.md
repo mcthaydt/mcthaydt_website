@@ -16,3 +16,4 @@ Developed using **Svelte** with **Vite** on **M1 Macbook Pro (2020)** using **Sv
 **Live Site**: https://mcthaydt.netlify.app
 
 
+![output](https://user-images.githubusercontent.com/107786093/189546389-877b930d-92b2-4326-b339-e3b26e4b2cae.gif)
