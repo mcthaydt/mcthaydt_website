@@ -9,7 +9,7 @@ Expect this to be continously updated.
 
 **Start Date**: 08-17-22; Chicago, IL; 04:10 PM
 
-*Version 1.0 Launched**: 09-11-22; Chicago, IL; 2:34 PM
+**Version 1.0 Launched**: 09-11-22; Chicago, IL; 2:34 PM
 
 Developed using **Svelte** with **Vite** on **M1 Macbook Pro (2020)** using **Svelte**, **TypeScript**, **HTML**, and **CSS**.
 
