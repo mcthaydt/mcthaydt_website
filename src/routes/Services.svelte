@@ -7,10 +7,7 @@
 		<h1>717 INTERACTIVE IS ACCEPTING NEW CLIENTS IN OCTOBER</h1>
 	</Typewriter>
 	<Typewriter interval={15} delay={200}>
-		<h2>NICHE 1: CHICAGO NIGHTLIFE WEBSITES</h2>
-	</Typewriter>
-	<Typewriter interval={15} delay={400}>
-		<h2>NICHE 2: DATA-DRIVEN SYSTEMIC VIDEO GAMES </h2>
+		<h2>NICHE: CHICAGO NIGHTLIFE WEBSITES</h2>
 	</Typewriter>
 	<Typewriter interval={15} delay={950}>
 		<h3>lightweight design studio</h3>
