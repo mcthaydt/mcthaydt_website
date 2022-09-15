@@ -45,7 +45,7 @@
 	<footer>
 		<Typewriter mode={'scramble'} scrambleDuration={350}>
 			<a href="https://www.tiktok.com/@mcthaydt">TikTok</a>
-			<a href="https://twitter.com/crispyowl717">Twitter</a>
+			<a href="https://twitter.com/mcthaydt">Twitter</a>
 			<a href="https://www.youtube.com/channel/UCkWuf4-zsNfgo_5ynyheOZw">YouTube</a>
 			<a href="https://github.com/mcthaydt">Github</a>
 			<a href="https://www.reddit.com/user/crispyowl717">Reddit</a>
