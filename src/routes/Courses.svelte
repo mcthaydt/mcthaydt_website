@@ -10,7 +10,7 @@
 		<h2>RUST GAME DEVELOPMENT</h2>
 	</Typewriter>
 	<Typewriter interval={15} delay={650}>
-		<h3>Coming 2023</h3>
+		<h3>Coming 2024</h3>
 	</Typewriter>
 </div>
 
