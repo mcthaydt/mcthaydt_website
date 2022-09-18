@@ -4,6 +4,7 @@
 
 <div class="container">
 
+	<!-- 
 	<div style="width: 300px; height: 200px; color: green; outline-style: ridge; border-radius: 3px; margin-top: 3rem; padding: 1rem;">
 		<typewriter>
 			<h2>post name </h2>
@@ -23,7 +24,8 @@
 			</div>
 		</typewriter>
 	</div>
-
+	-->
+	<h2>I'll have something for you here next month</h2>
 </div>
 
 <style>
