@@ -14,7 +14,7 @@
 			<h3>lightweight design studio</h3>
 		</Typewriter>
 		<Typewriter interval={15} delay={950}>
-			<a href="https://contra.com/dawson_mc_thay_ffnkobrz" style="margin-left: auto; padding-right: 1rem;">LINK</a>
+			<a href="https://contra.com/siderealowlstudio" style="margin-left: auto; padding-right: 1rem;">LINK</a>
 		</Typewriter>
 	</div>
 
