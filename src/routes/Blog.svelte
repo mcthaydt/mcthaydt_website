@@ -9,7 +9,7 @@
 			<h2>McThayDT’s Branding Guide for Game Developers</h2>
 			<h3>“A brand is a result. It’s a customer’s gut feeling about a product, service, or company.” - Marty Neumeier</h3>
 			<div style="display: flex; align-items: center; justify-content: space-between; padding-top: 5px;"> 
-				<a href="https://medium.com/@mcthaydawson/mcthaydts-branding-guide-for-game-developers-5559371f3370">Read Post</a>
+				<a href="https://medium.com/@mcthaydt/mcthaydts-branding-guide-for-game-developers-5559371f3370">Read Post</a>
 			</div>
 		</typewriter>
 	</div>
