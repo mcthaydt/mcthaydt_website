@@ -4,28 +4,15 @@
 
 <div class="container">
 
-	<!-- 
-	<div style="width: 300px; height: 200px; color: green; outline-style: ridge; border-radius: 3px; margin-top: 3rem; padding: 1rem;">
+	<div style="width: 300px; height: auto; color: green; outline-style: ridge; border-radius: 3px; margin-top: 3rem; padding: 1rem;">
 		<typewriter>
-			<h2>post name </h2>
-			<h3>post description: ya ya... yaaa yaaaaa ya ya yaaa~~aaaa
+			<h2>McThayDT’s Branding Guide for Game Developers</h2>
+			<h3>“A brand is a result. It’s a customer’s gut feeling about a product, service, or company.” - Marty Neumeier</h3>
 			<div style="display: flex; align-items: center; justify-content: space-between; padding-top: 5px;"> 
-				<a href="https://www.fiverr.com/mcthaydt">read post</a>
+				<a href="https://medium.com/@mcthaydawson/mcthaydts-branding-guide-for-game-developers-5559371f3370">Read Post</a>
 			</div>
 		</typewriter>
 	</div>
-
-	<div style="width: 300px; height: 200px; color: green; outline-style: ridge; border-radius: 3px; margin-top: 3rem; padding: 1rem;">
-		<typewriter>
-			<h2>post name </h2>
-			<h3>post description: ya ya... yaaa yaaaaa ya ya yaaa~~aaaa
-			<div style="display: flex; align-items: center; justify-content: space-between; padding-top: 5px;"> 
-				<a href="https://www.fiverr.com/mcthaydt">read post</a>
-			</div>
-		</typewriter>
-	</div>
-	-->
-	<h2>I'll have something for you here next month</h2>
 </div>
 
 <style>
