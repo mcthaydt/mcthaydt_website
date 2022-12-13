@@ -3,8 +3,10 @@
 :root {
   font-family: FiraCode-Regular, sans-serif;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.9rem;
   font-weight: 400;
+  letter-spacing: .15rem;
+  line-height:2.75rem;
 
   color: green;
   background-color: black;
