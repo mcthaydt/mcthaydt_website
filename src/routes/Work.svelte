@@ -1,20 +1,89 @@
 <script lang="ts">
-	import Typewriter from 'svelte-typewriter'
+	import Typewriter from "svelte-typewriter";
 </script>
 
-
 <div class="container">
-	<div style="width: 300px; height: auto; color: green; outline-style: ridge; border-radius: 3px; margin-top: 3rem; padding: 1rem; display: block;">
+	<div
+		style="width: 300px; height: auto; color: green; outline-style: ridge; border-radius: 3px; margin-top: 3rem; padding: 1rem; display: block;"
+	>
 		<Typewriter interval={15}>
-			<h2>Cabaret Ball</h2>
+			<h2>FLOORFIFTY</h2>
 		</Typewriter>
-		<img src="https://user-images.githubusercontent.com/107786093/178137514-ac57850b-3306-45ca-ad08-a4827fe15f57.gif" alt="funny GIF" width="90%" height="75%">
+		<img
+			src="https://iili.io/HomZkPV.gif"
+			alt="FLOORFIFTY GIF"
+			width="90%"
+			height="75%"
+		/>
 		<Typewriter interval={15}>
-		<h3>Precision-based 3D platformer controller for Godot Engine 4 Alpha Version 10 </h3> 
-		</Typewriter >
-		<div style="display: flex; align-items: center; justify-content: space-between; padding: 5px;"> 
-			<a href="https://github.com/mcthaydt/CabaretBallSprint1_Prototype">Live Project</a>
-			<a href="https://github.com/mcthaydt/CabaretBallSprint1_Prototype" style="margin-left: auto; padding-right: 1rem;">Source Code</a>
+			<h3>Precision-based Competitive 2D Platformer</h3>
+		</Typewriter>
+		<Typewriter interval={15}>
+			<h3>Created using Rust and Bevy Engine Version 0.9</h3>
+		</Typewriter>
+		<div
+			style="display: flex; align-items: center; justify-content: space-between; padding: 5px;"
+		>
+			<a
+				href="https://github.com/mcthaydt/Bevy-Doodle-Jump-0.9"
+				style="margin-left: auto; padding-right: 1rem;"
+			>
+				Source Code
+			</a>
+		</div>
+	</div>
+
+	<div
+		style="width: 300px; height: auto; color: green; outline-style: ridge; border-radius: 3px; margin-top: 3rem; padding: 1rem; display: block;"
+	>
+		<Typewriter interval={15}>
+			<h2>R.E.S.S.E.T App</h2>
+		</Typewriter>
+		<img
+			src="https://iili.io/HomtnRe.gif"
+			alt="R.E.S.S.E.T GIF"
+			width="90%"
+			height="75%"
+		/>
+		<Typewriter interval={15}>
+			<h3>Lifestyle and Wellness Mobile App</h3>
+		</Typewriter>
+		<Typewriter interval={15}>
+			<h3>Created using React Native (CLI), Javascript, and CSS</h3>
+		</Typewriter>
+		<div
+			style="display: flex; align-items: center; justify-content: space-between; padding: 5px;"
+		>
+			<a href="https://www.ressetstudio.com">Live Project</a>
+		</div>
+	</div>
+
+	<div
+		style="width: 300px; height: auto; color: green; outline-style: ridge; border-radius: 3px; margin-top: 3rem; padding: 1rem; display: block;"
+	>
+		<Typewriter interval={15}>
+			<h2>McThayDT Website</h2>
+		</Typewriter>
+		<img
+			src="https://iili.io/HomZGFS.gif"
+			alt="McThayDT GIF"
+			width="90%"
+			height="75%"
+		/>
+		<Typewriter interval={15}>
+			<h3>Professional Website for Dawson McThay</h3>
+		</Typewriter>
+		<Typewriter interval={15}>
+			<h3>Created using Svelte, HTML, CSS, and Javascript</h3>
+		</Typewriter>
+		<div
+			style="display: flex; align-items: center; justify-content: space-between; padding: 5px;"
+		>
+			<a href="https://mcthaydt.netlify.app">Live Project</a>
+			<a
+				href="https://github.com/mcthaydt/mcthaydt_website"
+				style="margin-left: auto; padding-right: 1rem;">Source Code</a
+			>
 		</div>
 	</div>
 </div>

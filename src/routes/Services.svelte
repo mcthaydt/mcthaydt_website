@@ -52,6 +52,6 @@
 		overflow-x: hidden;
 	}
 	h3 {
-		text-align: right;
+		text-align: left;
 	}
 </style>
