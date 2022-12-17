@@ -25,7 +25,7 @@
 			style="display: flex; align-items: center; justify-content: space-between; padding: 5px;"
 		>
 			<a
-				href="https://github.com/mcthaydt/Bevy-Doodle-Jump-0.9"
+				href="https://github.com/mcthaydt/FloorFiftyVerticalSlice"
 				style="margin-left: auto; padding-right: 1rem;"
 			>
 				Source Code

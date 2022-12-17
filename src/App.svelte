@@ -27,7 +27,7 @@
 	<header>
 		<Typewriter mode={"scramble"} scrambleDuration={350}>
 			<h1>Dawson McThay</h1>
-			<h2>Software Developer + Product Designer</h2>
+			<h2>Product-Focused Software Developer</h2>
 		</Typewriter>
 		<Typewriter mode={"scramble"} scrambleDuration={450}>
 			<nav>

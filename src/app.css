@@ -1,38 +1,41 @@
-@font-face { font-family: FiraCode-Regular; src: url('./assets/FiraCode-Regular.ttf'); }
+@font-face {
+	font-family: FiraCode-Regular;
+	src: url("./assets/FiraCode-Regular.ttf");
+}
 
 :root {
-  font-family: FiraCode-Regular, sans-serif;
-  font-size: 16px;
-  line-height: 1.9rem;
-  font-weight: 400;
-  letter-spacing: .15rem;
-  line-height:2.75rem;
+	font-family: FiraCode-Regular, sans-serif;
+	font-size: 16px;
+	line-height: 1.9rem;
+	font-weight: 400;
+	letter-spacing: 0.15rem;
+	line-height: 2.75rem;
 
-  color: green;
-  background-color: black;
-  overflow: hidden;
+	color: green;
+	background-color: black;
+	overflow: auto;
 
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
 }
 
 body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+	margin: 0;
+	display: flex;
+	place-items: center;
+	min-width: 320px;
+	min-height: 100vh;
 }
 
 #app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: left;
-  z-index: 1;
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: left;
+	z-index: 1;
 }
 a {
 	color: green;
@@ -41,16 +44,16 @@ a {
 	width: 7px;
 }
 ::-webkit-scrollbar-track {
-box-shadow: inset 0 0 5px green; 
-opacity: 50%;
-border-radius: 2px;
+	box-shadow: inset 0 0 5px green;
+	opacity: 50%;
+	border-radius: 2px;
 }
 ::-webkit-scrollbar-thumb {
-background: green;
-opacity: 85%;
-border-radius: 2px;
+	background: green;
+	opacity: 85%;
+	border-radius: 2px;
 }
 ::-webkit-scrollbar-thumb:hover {
-background: green;
-opacity: 95%;
+	background: green;
+	opacity: 95%;
 }
